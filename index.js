@@ -14,7 +14,7 @@ const fecha15 = false
       }
 
       if (!fecha15){
-        CheckDay(page, 'https://publico.elterrat.com/programa/la-resistencia/formulario/?gf_token=df1827c2180f4088a687077a42319257', 15)
+        CheckDay(page, 'https://publico.elterrat.com/programa/la-resistencia/formulario/?gf_token=68db1cbb30e34786a28681be383d19a4', 15)
       }
    
   } catch (error) {
